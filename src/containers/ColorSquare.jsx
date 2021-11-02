@@ -1,13 +1,14 @@
 import React from 'react';
 
-const ColorSquare = ({ color }) => {
+const ColorSquare = ({ colors }) => {
+
     return (
         <>
-
+        <h1>Color</h1>
         <div 
-        style={{ backgroundColor: color, height: 400, width: 400, marginTop: 50 }}>
+        style={{ backgroundColor: colors, height: 400, width: 400, marginTop: 50 }}>
         </div>
-        
+
         </>
     )
 }

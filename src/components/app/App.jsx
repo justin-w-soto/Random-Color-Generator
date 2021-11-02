@@ -3,6 +3,6 @@ import RandomColor from '../../containers/RandomColor'
 
 export default function App() {
 
-  return <RandomColor />;
+  return <RandomColor/>;
   
 }
