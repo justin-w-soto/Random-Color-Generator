@@ -1,5 +1,9 @@
 import React from 'react';
+import RandomColor from '../../containers/RandomColor'
+import '../app/main.css';
 
 export default function App() {
-  return <h1>HAWT COLORS</h1>;
+
+  return <RandomColor/>;
+  
 }

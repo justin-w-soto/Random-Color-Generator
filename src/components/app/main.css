@@ -1,0 +1,24 @@
+body { 
+    background-color:rgba(36, 44, 40, 0.87);
+    
+}
+
+h1 {
+    text-align: center;
+    color: #7fc098;
+    font-family:monospace;
+    font-weight: 800;
+    font-size:4em;
+  
+}
+
+div {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: .65em;
+}
+
+
+
+
+
